@@ -45,6 +45,7 @@ The following code is a NeuroEvolution genetic algorithm that "breeds" the smart
 ```
 $ git clone https://github.com/Zafirmk/NeuroEvol-WordGen.git
 $ cd NeuroEvol-WordGen
+$ main.py
 ```
 2. Open the project in your preferred IDE  
 
