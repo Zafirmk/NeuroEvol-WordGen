@@ -1,5 +1,5 @@
 # NeuroEvol-WordGen
-![Working Gif](<PlaceHolder>)
+![Working Gif](https://github.com/Zafirmk/NeuroEvol-WordGen/blob/master/Images/Sample.gif)
 
 Above is a gif showing the generated words (At first completely random), After n generations the target word ("Sample") has been generated.  
 
