@@ -34,7 +34,7 @@ The following code is a NeuroEvolution genetic algorithm that "breeds" the smart
     
      - **Mutation Process:** A random point number in the range 0 to 1 is generated, if this number is lower than the mutation rate given by the user - each letter of the child is checked. If it is incorrect, it is replaced by another random letter.  
      
-     ![Mutation](https://github.com/Zafirmk/NeuroEvol-WordGen/blob/master/Images/Screen%20Shot%202019-11-02%20at%205.27.23%20PM.png)
+     ![Mutation](https://github.com/Zafirmk/NeuroEvol-WordGen/blob/master/Images/Mutation.png)
 
 5. Repeat steps 2 to 4 until the target word is generated.
     
