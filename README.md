@@ -30,10 +30,10 @@ The following code is a NeuroEvolution genetic algorithm that "breeds" the smart
 4. From the mating pool two parents are randomly selected, bred, and their resulting child possibly mutated. The population variable is then cleared, and each new child is then appended to the population variable. Where each child is closer to the target word than it's parents. And hence, each population contains DNA objects that are closer to the target word.
 
     - **Breeding Process:** A random point is selected in each parent's word. For ParentA the first halve is selected for breeding and for ParentB the second halve is selected for breeding. As a result the child formed contains the first halve of ParentA and the second halve of ParentB.
-    ![Breeding](<PlaceHolder>)
+    ![Breeding](https://github.com/Zafirmk/NeuroEvol-WordGen/blob/master/Images/Screen%20Shot%202019-11-02%20at%205.26.50%20PM.png)
     
      - **Mutation Process:** A random point number in the range 0 to 1 is generated, if this number is lower than the mutation rate given by the user - each letter of the child is checked. If it is incorrect, it is replaced by another random letter.
-     ![Mutation](<PlaceHolder>)
+     ![Mutation](https://github.com/Zafirmk/NeuroEvol-WordGen/blob/master/Images/Screen%20Shot%202019-11-02%20at%205.27.23%20PM.png)
 
 5. Repeat steps 2 to 4 until the target word is generated.
     
