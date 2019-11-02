@@ -1,5 +1,9 @@
 # NeuroEvol-WordGen
 ![Working Gif](<PlaceHolder>)
+
+Above is a gif showing the generated words (At first completely random), After n generations the target word ("Sample") has been generated.  
+
+
 **Project duration**: 3 to 5 days  
 **IDE**: Pycharm 2019.2.3 (Community Edition)  
 **Python Version**: Python 3.7
